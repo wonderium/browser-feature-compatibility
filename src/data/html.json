@@ -1,0 +1,2108 @@
+{
+	"data": [
+		{
+			"id": "html",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "head",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "title",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "body",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "h1",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "p",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "div",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "span",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "header",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "footer",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "main",
+			"browsers": {
+				"chrome": 26,
+				"chrome_android": 26,
+				"edge": 12,
+				"firefox": 21,
+				"firefox_android": 21,
+				"safari": 7,
+				"safari_ios": 7
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "section",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "article",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "aside",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "nav",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "search",
+			"browsers": {
+				"chrome": 118,
+				"chrome_android": 118,
+				"edge": 118,
+				"firefox": 118,
+				"firefox_android": 118,
+				"safari": 17,
+				"safari_ios": 17
+			},
+			"latest_release_date": {
+				"year": 2023,
+				"month": 10,
+				"day": 13
+			}
+		},
+		{
+			"id": "time",
+			"browsers": {
+				"chrome": 62,
+				"chrome_android": 62,
+				"edge": 14,
+				"firefox": 22,
+				"firefox_android": 22,
+				"safari": 7,
+				"safari_ios": 4
+			},
+			"latest_release_date": {
+				"year": 2017,
+				"month": 10,
+				"day": 24
+			}
+		},
+		{
+			"id": "data",
+			"browsers": {
+				"chrome": 62,
+				"chrome_android": 62,
+				"edge": 18,
+				"firefox": 22,
+				"firefox_android": 22,
+				"safari": 10,
+				"safari_ios": 10
+			},
+			"latest_release_date": {
+				"year": 2018,
+				"month": 10,
+				"day": 2
+			}
+		},
+		{
+			"id": "sub",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "sup",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "del",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "ins",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "kbd",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "mark",
+			"browsers": {
+				"chrome": 7,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5.1,
+				"safari_ios": 5
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "output",
+			"browsers": {
+				"chrome": 10,
+				"chrome_android": 18,
+				"edge": 18,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 7,
+				"safari_ios": 7
+			},
+			"latest_release_date": {
+				"year": 2018,
+				"month": 10,
+				"day": 2
+			}
+		},
+		{
+			"id": "strong",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "em",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "cite",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "var",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "dfn",
+			"browsers": {
+				"chrome": 15,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 6,
+				"safari_ios": 6
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "samp",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "abbr",
+			"browsers": {
+				"chrome": 2,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "hgroup",
+			"browsers": {
+				"chrome": 5,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "address",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "blockquote",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "q",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "br",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "wbr",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 79,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 1,
+				"day": 15
+			}
+		},
+		{
+			"id": "hr",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "b",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "i",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "s",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "u",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "bdo",
+			"browsers": {
+				"chrome": 15,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 10,
+				"firefox_android": 10,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "bdi",
+			"browsers": {
+				"chrome": 16,
+				"chrome_android": 18,
+				"edge": 79,
+				"firefox": 10,
+				"firefox_android": 10,
+				"safari": 6,
+				"safari_ios": 6
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 1,
+				"day": 15
+			}
+		},
+		{
+			"id": "small",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "pre",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "code",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "a",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "link",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "img",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "map",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "area",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "figure",
+			"browsers": {
+				"chrome": 8,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5.1,
+				"safari_ios": 5
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "figcaption",
+			"browsers": {
+				"chrome": 8,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5.1,
+				"safari_ios": 5
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "picture",
+			"browsers": {
+				"chrome": 38,
+				"chrome_android": 38,
+				"edge": 13,
+				"firefox": 38,
+				"firefox_android": 38,
+				"safari": 9.1,
+				"safari_ios": 9.3
+			},
+			"latest_release_date": {
+				"year": 2016,
+				"month": 3,
+				"day": 21
+			}
+		},
+		{
+			"id": "source",
+			"browsers": {
+				"chrome": 3,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 3.5,
+				"firefox_android": 4,
+				"safari": 3.1,
+				"safari_ios": 2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "form",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "input",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "textarea",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "button",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "select",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "option",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "optgroup",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "datalist",
+			"browsers": {
+				"chrome": 20,
+				"chrome_android": 33,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 79,
+				"safari": 12.1,
+				"safari_ios": 12.2
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 7,
+				"day": 28
+			}
+		},
+		{
+			"id": "label",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "fieldset",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "legend",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "ul",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "ol",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "li",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "dl",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "dt",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "dd",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "table",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "thead",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "tbody",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "tfoot",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "th",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "tr",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "td",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "caption",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "colgroup",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "col",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "audio",
+			"browsers": {
+				"chrome": 3,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 3.5,
+				"firefox_android": 4,
+				"safari": 3.1,
+				"safari_ios": 3
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "video",
+			"browsers": {
+				"chrome": 3,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 3.5,
+				"firefox_android": 4,
+				"safari": 3.1,
+				"safari_ios": 3
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "iframe",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "embed",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "details",
+			"browsers": {
+				"chrome": 12,
+				"chrome_android": 18,
+				"edge": 79,
+				"firefox": 49,
+				"firefox_android": 49,
+				"safari": 6,
+				"safari_ios": 6
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 1,
+				"day": 15
+			}
+		},
+		{
+			"id": "summary",
+			"browsers": {
+				"chrome": 12,
+				"chrome_android": 18,
+				"edge": 79,
+				"firefox": 49,
+				"firefox_android": 49,
+				"safari": 6,
+				"safari_ios": 6
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 1,
+				"day": 15
+			}
+		},
+		{
+			"id": "object",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "progress",
+			"browsers": {
+				"chrome": 6,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 6,
+				"firefox_android": 6,
+				"safari": 6,
+				"safari_ios": 7
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "canvas",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1.5,
+				"firefox_android": 4,
+				"safari": 2,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "dialog",
+			"browsers": {
+				"chrome": 37,
+				"chrome_android": 37,
+				"edge": 79,
+				"firefox": 98,
+				"firefox_android": 98,
+				"safari": 15.4,
+				"safari_ios": 15.4
+			},
+			"latest_release_date": {
+				"year": 2022,
+				"month": 3,
+				"day": 14
+			}
+		},
+		{
+			"id": "meter",
+			"browsers": {
+				"chrome": 6,
+				"chrome_android": 18,
+				"edge": 18,
+				"firefox": 16,
+				"firefox_android": 16,
+				"safari": 6,
+				"safari_ios": 10.3
+			},
+			"latest_release_date": {
+				"year": 2018,
+				"month": 10,
+				"day": 2
+			}
+		},
+		{
+			"id": "param",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "track",
+			"browsers": {
+				"chrome": 23,
+				"chrome_android": 25,
+				"edge": 12,
+				"firefox": 31,
+				"firefox_android": 31,
+				"safari": 6,
+				"safari_ios": 6
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "meta",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "base",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "style",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "script",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "noscript",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 3,
+				"safari_ios": 2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "template",
+			"browsers": {
+				"chrome": 26,
+				"chrome_android": 26,
+				"edge": 13,
+				"firefox": 22,
+				"firefox_android": 22,
+				"safari": 8,
+				"safari_ios": 8
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 11,
+				"day": 12
+			}
+		},
+		{
+			"id": "slot",
+			"browsers": {
+				"chrome": 53,
+				"chrome_android": 53,
+				"edge": 79,
+				"firefox": 63,
+				"firefox_android": 63,
+				"safari": 10,
+				"safari_ios": 10
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 1,
+				"day": 15
+			}
+		},
+		{
+			"id": "class",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "id",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 32,
+				"firefox_android": 32,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "data_attributes",
+			"browsers": {
+				"chrome": 7,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 6,
+				"firefox_android": 6,
+				"safari": 5.1,
+				"safari_ios": 5
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "style",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 1,
+				"safari_ios": 1
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "title",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "hidden",
+			"browsers": {
+				"chrome": 10,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 4,
+				"firefox_android": 4,
+				"safari": 5.1,
+				"safari_ios": 5
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "contenteditable",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 3,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "translate",
+			"browsers": {
+				"chrome": 19,
+				"chrome_android": 25,
+				"edge": 79,
+				"firefox": 111,
+				"firefox_android": 111,
+				"safari": 6,
+				"safari_ios": 6
+			},
+			"latest_release_date": {
+				"year": 2023,
+				"month": 3,
+				"day": 14
+			}
+		},
+		{
+			"id": "lang",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "dir",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 79,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 1,
+				"day": 15
+			}
+		},
+		{
+			"id": "spellcheck",
+			"browsers": {
+				"chrome": 9,
+				"chrome_android": 47,
+				"edge": 12,
+				"firefox": 2,
+				"firefox_android": 57,
+				"safari": 5.1,
+				"safari_ios": 9.3
+			},
+			"latest_release_date": {
+				"year": 2017,
+				"month": 11,
+				"day": 28
+			}
+		},
+		{
+			"id": "tabindex",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1.5,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "inert",
+			"browsers": {
+				"chrome": 102,
+				"chrome_android": 102,
+				"edge": 102,
+				"firefox": 112,
+				"firefox_android": 112,
+				"safari": 15.5,
+				"safari_ios": 15.5
+			},
+			"latest_release_date": {
+				"year": 2023,
+				"month": 4,
+				"day": 11
+			}
+		},
+		{
+			"id": "accesskey",
+			"browsers": {
+				"chrome": 1,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 1,
+				"firefox_android": 4,
+				"safari": 4,
+				"safari_ios": 3.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "enterkeyhint",
+			"browsers": {
+				"chrome": 77,
+				"chrome_android": 77,
+				"edge": 79,
+				"firefox": 94,
+				"firefox_android": 94,
+				"safari": 13.1,
+				"safari_ios": 13.4
+			},
+			"latest_release_date": {
+				"year": 2021,
+				"month": 11,
+				"day": 2
+			}
+		},
+		{
+			"id": "draggable",
+			"browsers": {
+				"chrome": 4,
+				"chrome_android": 18,
+				"edge": 12,
+				"firefox": 2,
+				"firefox_android": 4,
+				"safari": 5,
+				"safari_ios": 4.2
+			},
+			"latest_release_date": {
+				"year": 2015,
+				"month": 7,
+				"day": 29
+			}
+		},
+		{
+			"id": "autocapitalize",
+			"browsers": {
+				"chrome": 43,
+				"chrome_android": 43,
+				"edge": 79,
+				"firefox": 111,
+				"firefox_android": 111,
+				"safari": null,
+				"safari_ios": 5
+			},
+			"latest_release_date": "Limited availability"
+		},
+		{
+			"id": "autofocus",
+			"browsers": {
+				"chrome": 79,
+				"chrome_android": 79,
+				"edge": 79,
+				"firefox": 110,
+				"firefox_android": 110,
+				"safari": 15.4,
+				"safari_ios": 15.4
+			},
+			"latest_release_date": {
+				"year": 2023,
+				"month": 2,
+				"day": 14
+			}
+		},
+		{
+			"id": "exportparts",
+			"browsers": {
+				"chrome": 73,
+				"chrome_android": 73,
+				"edge": 79,
+				"firefox": 72,
+				"firefox_android": 79,
+				"safari": 13.1,
+				"safari_ios": 13.4
+			},
+			"latest_release_date": {
+				"year": 2020,
+				"month": 7,
+				"day": 28
+			}
+		},
+		{
+			"id": "role",
+			"browsers": {
+				"chrome": 103,
+				"chrome_android": 103,
+				"edge": 103,
+				"firefox": 119,
+				"firefox_android": 119,
+				"safari": 16.4,
+				"safari_ios": 16.4
+			},
+			"latest_release_date": {
+				"year": 2023,
+				"month": 10,
+				"day": 24
+			}
+		}
+	]
+}
