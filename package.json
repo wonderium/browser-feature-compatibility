@@ -1,0 +1,38 @@
+{
+	"name": "@wonderium/browser-feature-compatibility",
+	"version": "1.0.0",
+	"description": "This project provides information on the addition of CSS, HTML, and SVG features in the most widely-used browsers, including the latest date of full stable support.",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"format": "prettier --check 'src/**/*.{js,ts,tsx,json,md}'",
+		"format:write": "prettier --write 'src/**/*.{js,ts,tsx,json,md}'"
+	},
+	"author": "wonderium.dev",
+	"license": "CC0-1.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wonderium/browser-feature-compatibility.git"
+	},
+	"keywords": [
+		"browser-feature-compatibility",
+		"browser",
+		"features",
+		"support",
+		"css",
+		"html",
+		"svg",
+		"browser-api",
+		"data",
+		"compatibility",
+		"wonderium",
+		"wm"
+	],
+	"homepage": "https://github.com/wonderium/browser-feature-compatibility#readme",
+	"devDependencies": {
+		"@types/node": "^20.14.11",
+		"prettier": "3.3.3",
+		"typescript": "^5.5.4"
+	}
+}
