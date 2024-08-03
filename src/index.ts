@@ -23,7 +23,7 @@ const svg: Features = svgJSON.data;
 const js: Features = jsJSON.data;
 const jsBrowser: Features = jsBrowserJSON.data;
 
-export { html, css, svg };
+export { html, css, svg, js, jsBrowser };
 
 export default {
 	html,
