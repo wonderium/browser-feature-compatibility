@@ -5154,7 +5154,7 @@
 			}
 		},
 		{
-			"id": "translateX",
+			"id": "translate-x",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
@@ -5171,7 +5171,7 @@
 			}
 		},
 		{
-			"id": "translateY",
+			"id": "translate-y",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
@@ -5188,7 +5188,7 @@
 			}
 		},
 		{
-			"id": "translateZ",
+			"id": "translate-z",
 			"browsers": {
 				"chrome": 12,
 				"chrome_android": 18,
@@ -5239,7 +5239,7 @@
 			}
 		},
 		{
-			"id": "scaleX",
+			"id": "scale-x",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
@@ -5256,7 +5256,7 @@
 			}
 		},
 		{
-			"id": "scaleY",
+			"id": "scale-y",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
@@ -5273,7 +5273,7 @@
 			}
 		},
 		{
-			"id": "scaleZ",
+			"id": "scale-z",
 			"browsers": {
 				"chrome": 12,
 				"chrome_android": 18,
@@ -5324,7 +5324,7 @@
 			}
 		},
 		{
-			"id": "skewX",
+			"id": "skew-x",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
@@ -5341,7 +5341,7 @@
 			}
 		},
 		{
-			"id": "skewY",
+			"id": "skew-y",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
@@ -5375,7 +5375,7 @@
 			}
 		},
 		{
-			"id": "rotateX",
+			"id": "rotate-x",
 			"browsers": {
 				"chrome": 12,
 				"chrome_android": 18,
@@ -5392,7 +5392,7 @@
 			}
 		},
 		{
-			"id": "rotateY",
+			"id": "rotate-y",
 			"browsers": {
 				"chrome": 12,
 				"chrome_android": 18,
@@ -5409,7 +5409,7 @@
 			}
 		},
 		{
-			"id": "rotateZ",
+			"id": "rotate-z",
 			"browsers": {
 				"chrome": 12,
 				"chrome_android": 18,
@@ -5630,7 +5630,7 @@
 			}
 		},
 		{
-			"id": "color-keyword",
+			"id": "color-keywords",
 			"browsers": {
 				"chrome": 1,
 				"chrome_android": 18,
