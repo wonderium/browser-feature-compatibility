@@ -1,6 +1,6 @@
 {
 	"name": "@wonderium/browser-feature-compatibility",
-	"version": "1.1.2",
+	"version": "1.2.0",
 	"description": "This project provides information on the addition of CSS, HTML, and SVG features in the most widely-used browsers, including the latest date of full stable support.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
